@@ -1,4 +1,4 @@
-# 👋 Hi! My name is Hailemichael and I'm a Full-Stack Web Developer from Ethiopia – Addis Ababa
+### 👋 Hi! My name is Hailemichael and I'm a Full-Stack Web Developer from Ethiopia – Addis Ababa
 
 🛠️ I'm currently building modern full-stack apps using the **MERN** stack  
 🚀 I've been working as a web developer since 2022  

@@ -30,6 +30,7 @@
 
 ## 🌟 Featured Projects
 
+- 🌐 **Portfolio Website** – [Live](https://portfolio-rho-gules-15.vercel.app/) | [Code](https://github.com/hilla10/my_portfolio_web)
 - 🍎 **Apple Homepage Clone** – [Live](https://apple-one.vercel.app) | [Code](https://github.com/hilla10/apple)
 - 📱 **3D iPhone Showcase** – [Live](https://iphone-pearl-seven.vercel.app) | [Code](https://github.com/hilla10/iphone)
 - 🛒 **MERN E-commerce App** – [User Site](https://e-commerce-mern-app-frontend.vercel.app) | [Admin](https://e-commerce-mern-app-admin.vercel.app) | [Code](https://github.com/hilla10/e-commerce-mern-app)

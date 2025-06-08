@@ -2,7 +2,7 @@
 
 🛠️ I'm currently building modern full-stack apps using the **MERN** stack  
 🚀 I've been working as a web developer since 2022  
-📚 Continuously learning & expanding into areas like **3D Web**, **GSAP**, and **Vite**  
+📚 Continuously learning & expanding into areas like **3D Web**, **GSAP**, **Python**, and **Vite**  
 🎯 Passionate about UI/UX, clean code, and building meaningful digital products  
 
 ---

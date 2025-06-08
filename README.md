@@ -83,9 +83,8 @@
 
 ### 📊 GitHub Stats  
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=hilla10&theme=neon&hide_border=false&include_all_commits=true&count_private=true" loading="lazy" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=hilla10&theme=neon&hide_border=false" loading="lazy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hilla10&theme=neon&hide_border=false&include_all_commits=true&count_private=true" loading="lazy" width='48%' />
+<img src="https://nirzak-streak-stats.vercel.app/?user=hilla10&theme=neon&hide_border=false" loading="lazy" width='48%' />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilla10&theme=neon" width="49%" />
 

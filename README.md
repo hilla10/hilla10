@@ -7,13 +7,14 @@
 <div align="left">
  <table>
   <tr>
-   <td valign="top">
-  <p><strong>🛠️ I'm currently learning and building modern full-stack apps using the <code>MERN</code> stack</strong></p>
-  <p>🚀 I started my journey as a web developer in 2022, and since then, I’ve been practicing by building projects and refining my skills.</p>
-  <p>📚 I'm always exploring new technologies — I’ve tried out <strong>3D Web</strong> with <strong>Three.js</strong> and <strong>GSAP</strong> through project tutorials, and I’ve begun learning <strong>Python</strong> and <strong>Vite</strong> as part of my growth.</p>
-  <p>🎯 I'm passionate about clean UI/UX, writing better code every day, and building meaningful digital experiences.</p>
-  <p>💡 I'm constantly learning by experimenting, building, and challenging myself with new ideas and tools.</p>
+ <td valign="top">
+  <p><strong>🛠️ I specialize in building modern full-stack web applications using the <code>MERN</code> stack.</strong></p>
+  <p>🚀 Since 2022, I've been honing my web development skills by working on real-world projects, client websites, and coding challenges.</p>
+  <p>📚 I actively explore new tools and technologies — I've started experimenting with <strong>3D Web</strong> using <strong>Three.js</strong> and <strong>GSAP</strong>, and I'm learning <strong>Python</strong> and <strong>Vite</strong> to expand my backend and performance optimization skills.</p>
+  <p>🎯 I focus on clean, responsive design, user-first functionality, and writing maintainable code that solves real problems.</p>
+  <p>🤝 I’m open to freelance opportunities, collaborations, or long-term roles where I can contribute, learn, and grow.</p>
 </td>
+
 
 
   <td>

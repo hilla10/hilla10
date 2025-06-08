@@ -1,12 +1,20 @@
 
   ### 💫 About Me:
 <div align="left">
-  <h1>👋 Hi! My name is Hailemichael</h1>
-
-  <p><strong>🛠️ I'm currently building modern full-stack apps using the <code>MERN</code> stack</strong></p>
-  <p>🚀 I've been working as a web developer since 2022</p>
-  <p>📚 Continuously learning & expanding into areas like <strong>3D Web</strong>, <strong>GSAP</strong>, <strong>Python</strong>, and <strong>Vite</strong></p>
-  <p>🎯 Passionate about UI/UX, clean code, and building meaningful digital products</p>
+ <table>
+  <tr>
+    <td valign="top">
+      <h1>👋 Hi! My name is Hailemichael</h1>
+      <p><strong>🛠️ I'm currently building modern full-stack apps using the <code>MERN</code> stack</strong></p>
+      <p>🚀 I've been working as a web developer since 2022</p>
+      <p>📚 Continuously learning & expanding into areas like <strong>3D Web</strong>, <strong>GSAP</strong>, <strong>Python</strong>, and <strong>Vite</strong></p>
+      <p>🎯 Passionate about UI/UX, clean code, and building meaningful digital products</p>
+    </td>
+    <td>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JxaHVjdmJxNGtpN2p4am1sdmRvcWRvMXR1ZHJkM2VzaGtpdW5meCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeZ6mLsRRik8cgnh3D/giphy.gif" width="250" alt="Hailemichael Animation" />
+    </td>
+  </tr>
+</table>
 
 
 

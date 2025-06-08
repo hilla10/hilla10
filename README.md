@@ -69,11 +69,14 @@
 ---
 
 ### 📊 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=hilla10&theme=neon&hide_border=false&include_all_commits=true&count_private=true" loading="lazy" />
-<br/>
+<div align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=hilla10&theme=neon&hide_border=false&include_all_commits=true&count_private=true" loading="lazy" />
+
 <img src="https://nirzak-streak-stats.vercel.app/?user=hilla10&theme=neon&hide_border=false" loading="lazy" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilla10&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" loading="lazy" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilla10&theme=neon" width="49%" />
+
+</div>
 
 ---
 
@@ -95,6 +98,15 @@
 
 ### 👁️ Visitors Count   
 ![Visitor Count](https://komarev.com/ghpvc/?username=hilla10&label=Visitors&color=0e75b6&style=flat)
+
+---
+
+✨ Let's Build Something Amazing!
+<div> <h3>🚀 Open to:</h3> <p><strong>Full-time Roles</strong> • <strong>Freelance Collaborations</strong> • <strong>Technical Partnerships</strong></p> <br/>
+📧 <strong>Email:</strong> <a href="mailto:hillaman592@gmail.com">hillaman592@gmail.com</a> <br/>
+📍 <strong>Location:</strong> Addis Ababa, Ethiopia
+
+</div>
 
 ---
 

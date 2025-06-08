@@ -11,10 +11,11 @@
       <p>🎯 Passionate about UI/UX, clean code, and building meaningful digital products</p>
     </td>
     <td>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JxaHVjdmJxNGtpN2p4am1sdmRvcWRvMXR1ZHJkM2VzaGtpdW5meCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeZ6mLsRRik8cgnh3D/giphy.gif" width="250" alt="Hailemichael Animation" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JxaHVjdmJxNGtpN2p4am1sdmRvcWRvMXR1ZHJkM2VzaGtpdW5meCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeZ6mLsRRik8cgnh3D/giphy.gif" width="350" alt="Hailemichael Animation" />
     </td>
   </tr>
 </table>
+
 
 
 

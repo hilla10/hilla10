@@ -5,20 +5,17 @@
 
   ### 💫 About Me:
 <div align="left">
- <table>
+<table>
   <tr>
- <td valign="top">
-  <p><strong>🛠️ I specialize in building modern full-stack web applications using the <code>MERN</code> stack.</strong></p>
-  <p>🚀 Since 2022, I've been honing my web development skills by working on real-world projects, client websites, and coding challenges.</p>
-  <p>📚 I actively explore new tools and technologies — I've started experimenting with <strong>3D Web</strong> using <strong>Three.js</strong> and <strong>GSAP</strong>, and I'm learning <strong>Python</strong> and <strong>Vite</strong> to expand my backend and performance optimization skills.</p>
-  <p>🎯 I focus on clean, responsive design, user-first functionality, and writing maintainable code that solves real problems.</p>
-  <p>🤝 I’m open to freelance opportunities, collaborations, or long-term roles where I can contribute, learn, and grow.</p>
-</td>
-
-
-
-  <td>
-      <img     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JxaHVjdmJxNGtpN2p4am1sdmRvcWRvMXR1ZHJkM2VzaGtpdW5meCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeZ6mLsRRik8cgnh3D/giphy.gif" width="350" alt="Hailemichael Animation" />
+    <td>
+      <p><strong>🛠️ I specialize in building modern full-stack web applications using the <code>MERN</code> stack.</strong></p>
+      <p>🚀 Since 2022, I've been honing my web development skills by working on real-world projects, client websites, and coding challenges.</p>
+      <p>📚 I actively explore new tools and technologies — I've started experimenting with <strong>3D Web</strong> using <strong>Three.js</strong> and <strong>GSAP</strong>, and I'm learning <strong>Python</strong> and <strong>Vite</strong> to expand my backend and performance optimization skills.</p>
+      <p>🎯 I focus on clean, responsive design, user-first functionality, and writing maintainable code that solves real problems.</p>
+      <p>🤝 I’m open to freelance opportunities, collaborations, or long-term roles where I can contribute, learn, and grow.</p>
+    </td>
+    <td>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JxaHVjdmJxNGtpN2p4am1sdmRvcWRvMXR1ZHJkM2VzaGtpdW5meCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeZ6mLsRRik8cgnh3D/giphy.gif" width="300" alt="Hailemichael Animation">
     </td>
   </tr>
 </table>
